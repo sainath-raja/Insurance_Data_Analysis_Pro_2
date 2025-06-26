@@ -104,5 +104,5 @@ To develop an interactive dashboard that:
 ## 6. Screenshots / Demos  
 Show what the dashboard looks like.  
 - ![Policy Overview](https://github.com/sainath-raja/Insurance_Data_Analysis_Pro_2/blob/main/All_Charts.png) 
-- ![Claim Trends](https://github.com/yourusername/repo/assets/claim_visuals.png)  
+- ![Claim Trends](https://github.com/sainath-raja/Insurance_Data_Analysis_Pro_2/blob/main/Drill_Through_Page.png)  
 - ![Feedback Word Cloud](https://github.com/yourusername/repo/assets/feedback_analysis.png)
