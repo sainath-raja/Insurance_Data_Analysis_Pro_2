@@ -2,13 +2,12 @@
 
 # InsuranceData-Dashboard
 
-## 1. Project Title / Headline  
-🛡️ Insurance Intelligence: Policy & Claims Analytics Dashboard  
+## 1. Project Title - 🛡️ Insurance Intelligence: Policy & Claims Analytics Dashboard   
 A powerful and interactive Power BI dashboard built to explore insurance policy, premium, and claim trends using Microsoft SQL Server as the data source. This solution provides a full-scale visualization of customer policy behavior, gender insights, and feedback-driven service refinement.
 
 ---
 
-## 2. Short Description / Purpose  
+## 2. Short Description 
 Insurance Intelligence is a comprehensive dashboard created by integrating SQL Server with Power BI to uncover insights from insurance policy and claims data. The dashboard enables deep exploration of premiums, claims, and customer behavior across various policy types, age groups, and feedback sentiments.
 
 ---
